@@ -1,3 +1,8 @@
+# Solution to problem:
+# https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+
+# built in python bin() function has O(n)
+
 def solution(N):
     # write your code in Python 3.6
     binary = bin(N)
