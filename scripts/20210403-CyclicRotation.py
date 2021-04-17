@@ -1,5 +1,7 @@
 # Solution to problem:
 # https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+# Session's final report:
+# https://app.codility.com/demo/results/trainingDABBAB-7PR/
 
 def solution(A, K):
     # Check for edge cases:
