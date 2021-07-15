@@ -6,6 +6,10 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 10th July 2021
+https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/  
+https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
+
 ## 12th June 2021
 https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
