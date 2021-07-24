@@ -6,6 +6,10 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+##  24th July 2021
+https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/  
+https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+
 ## 10th July 2021
 https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/  
 https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
