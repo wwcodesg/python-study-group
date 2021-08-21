@@ -6,6 +6,9 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 8th Aug 2021
+https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/   
+
 ##  24th July 2021
 https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/  
 https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
