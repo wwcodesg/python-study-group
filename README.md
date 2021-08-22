@@ -6,6 +6,9 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 21st Aug 2021
+https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+
 ## 8th Aug 2021
 https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/   
 
