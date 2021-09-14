@@ -6,6 +6,11 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 4th Sep 2021
+https://app.codility.com/programmers/lessons/6-sorting/distinct/  
+https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/   
+https://app.codility.com/programmers/lessons/6-sorting/triangle/   
+
 ## 21st Aug 2021
 https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
 
