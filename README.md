@@ -6,6 +6,17 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 13th Nov 2021
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/  
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
+
+## 16th Oct 2021
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/  
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/
+
+## 2nd Oct 2021
+https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
+
 ## 4th Sep 2021
 https://app.codility.com/programmers/lessons/6-sorting/distinct/  
 https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/   
