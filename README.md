@@ -6,6 +6,9 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 27th Nov 2021
+https://app.codility.com/programmers/lessons/8-leader/dominator/  
+
 ## 13th Nov 2021
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/  
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
