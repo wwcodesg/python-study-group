@@ -4,7 +4,12 @@ Repository for WWCodeSG Python Study Group
 
 
 # Past study groups
-Scripts can be found under the `scripts/` folder
+Jupyter notebooks can be found under the `notebooks/` folder.
+
+Scripts can be found under the `scripts/` folder.
+
+## 8th Jan 2022
+The Python Data Model
 
 ## 11th Dec 2021
 Iterators and Generators.
