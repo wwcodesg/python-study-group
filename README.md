@@ -6,6 +6,9 @@ Repository for WWCodeSG Python Study Group
 # Past study groups
 Scripts can be found under the `scripts/` folder
 
+## 11th Dec 2021
+Iterators and Generators.
+
 ## 27th Nov 2021
 https://app.codility.com/programmers/lessons/8-leader/dominator/  
 
