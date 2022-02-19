@@ -1,4 +1,3 @@
-# coding: cp1252
 
 olá = 'Olá, Mundo!'
 
