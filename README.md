@@ -4,9 +4,32 @@ Repository for WWCodeSG Python Study Group
 
 
 # Past study groups
-Jupyter notebooks can be found under the `notebooks/` folder.
-
+Jupyter notebooks can be found under the `notebooks/` folder.  
 Scripts can be found under the `scripts/` folder.
+
+We have started one chapter per session (fortnight) of Fluent Python by Luciano Ramalho, since January 2022.  
+Notes are all under the `notebooks/` folder.
+
+Sessions in 2011 are all on codility 'lessons'.  
+Scripts are all under the `scripts/` folder.
+
+## 2nd Apr 2022
+Function Decorators and Closures
+
+## 19th Mar 2022
+Deesign Patterns with First-Class Functions
+
+## 5th Mar 2022
+First-Class Functions
+
+## 19th Feb  2022
+Text versus Bytes
+
+## 5th Feb 2022
+Dictionaries and Sets
+
+## 22nd Jan 2022
+An Array of Sequences
 
 ## 8th Jan 2022
 The Python Data Model
