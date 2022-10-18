@@ -13,26 +13,65 @@ Notes are all under the `notebooks/` folder.
 Sessions in 2011 are all on codility 'lessons'.  
 Scripts are all under the `scripts/` folder.
 
+## 29th Oct 2022
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 22: Dynamic Attributes and Properties
+
+## 15th Oct 2022
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 21: Asynchronous Programming
+
+## 17th Sep 2022
+Fluent Python by Luciano Ramalho. Chapter 17: Concurrency with Futures
+
+## 3rd Sep 2022
+Fluent Python by Luciano Ramalho. Chapter 16: Coroutines. -> Use Case
+
+## 20th Aug 2022
+Fluent Python by Luciano Ramalho. Chapter 16: Coroutines
+
+## 6th Aug 2022
+Fluent Python by Luciano Ramalho. Chapter 15: Context Managers and else Blocks
+
+## 23th  Jul  2022
+Fluent Python by Luciano Ramalho. Chapter 14: Iterables, Iterators, and Generators
+
+## 9th Jul 2022
+Fluent Python by Luciano Ramalho. Chapter 13: Operator Overloading: Doing it Right
+
+##  25th  Jun 2022
+Fluent Python by Luciano Ramalho. Chapter 12: Inheritance: For Good or For Worse
+
+##  11th Jun  2022
+Fluent Python by Luciano Ramalho. Chapter 11: Interfaces: From Protocols to ABCs
+
+## 28th May 2022
+Fluent Python by Luciano Ramalho. Chapter 10: Sequence Hacking, Hashing, and Slicing
+
+## 14th May 2022
+Fluent Python by Luciano Ramalho. Chapter 9: A Pythonic Object
+
+## 16th Apr 2022
+Fluent Python by Luciano Ramalho. Chapter 8: Object References, Mutability, and Recycling
+
 ## 2nd Apr 2022
-Function Decorators and Closures
+Fluent Python by Luciano Ramalho. Chapter 7: Function Decorators and Closures
 
 ## 19th Mar 2022
-Deesign Patterns with First-Class Functions
+Fluent Python by Luciano Ramalho. Chapter 6: Deesign Patterns with First-Class Functions
 
 ## 5th Mar 2022
-First-Class Functions
+Fluent Python by Luciano Ramalho. Chapter 5: First-Class Functions
 
 ## 19th Feb  2022
-Text versus Bytes
+Fluent Python by Luciano Ramalho. Chapter 4: Text versus Bytes
 
 ## 5th Feb 2022
-Dictionaries and Sets
+Fluent Python by Luciano Ramalho. Chapter 3: Dictionaries and Sets
 
 ## 22nd Jan 2022
-An Array of Sequences
+Fluent Python by Luciano Ramalho. Chapter 2: An Array of Sequences
 
 ## 8th Jan 2022
-The Python Data Model
+Fluent Python by Luciano Ramalho. Chapter 1: The Python Data Model
 
 ## 11th Dec 2021
 Iterators and Generators.
