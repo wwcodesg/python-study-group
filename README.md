@@ -13,6 +13,12 @@ Notes are all under the `notebooks/` folder.
 Sessions in 2011 are all on codility 'lessons'.  
 Scripts are all under the `scripts/` folder.
 
+## 26th Nov 2022
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 24: Class Metaprogramming
+
+## 12th  Nov 2022
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 23: Attribute Descriptors
+
 ## 29th Oct 2022
 Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 22: Dynamic Attributes and Properties
 
