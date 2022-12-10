@@ -13,6 +13,9 @@ Notes are all under the `notebooks/` folder.
 Sessions in 2011 are all on codility 'lessons'.  
 Scripts are all under the `scripts/` folder.
 
+## 10th Dec 2022
+Fluent Python, 2nd Edition, by Luciano Ramalho. Changes in 2nd Edition. Up to chapter 20.
+
 ## 26th Nov 2022
 Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 24: Class Metaprogramming
 
