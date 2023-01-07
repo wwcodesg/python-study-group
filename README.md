@@ -8,10 +8,14 @@ Jupyter notebooks can be found under the `notebooks/` folder.
 Scripts can be found under the `scripts/` folder.
 
 We have started one chapter per session (fortnight) of Fluent Python by Luciano Ramalho, since January 2022.  
+Fluent Python, 2nd Edition, by Luciano Ramalho, since 15th Oct 2022.  
 Notes are all under the `notebooks/` folder.
 
 Sessions in 2011 are all on codility 'lessons'.  
 Scripts are all under the `scripts/` folder.
+
+## 7th Jan 2023
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 5: Data Class Builders
 
 ## 10th Dec 2022
 Fluent Python, 2nd Edition, by Luciano Ramalho. Changes in 2nd Edition. Up to chapter 20.
