@@ -14,6 +14,9 @@ Notes are all under the `notebooks/` folder.
 Sessions in 2011 are all on codility 'lessons'.  
 Scripts are all under the `scripts/` folder.
 
+## 4th Mar 2023
+Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 14: Inheritance: For Better or For Worse
+
 ## 18th Feb 2023
 Fluent Python, 2nd Edition, by Luciano Ramalho. Chapter 13: Interfaces, Protocols, and ABCs
 
